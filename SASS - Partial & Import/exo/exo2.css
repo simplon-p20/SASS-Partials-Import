@@ -1,0 +1,24 @@
+h1 {
+  font-family: Quicksand;
+  background-color: whitesmoke; }
+
+section {
+  color: red;
+  background-image: "#";
+  font-size: 10px;
+  position: fixed;
+  margin: 0 auto; }
+
+.small {
+  color: green;
+  font-family: Calibri;
+  border-radius: 50px;
+  height: 50px;
+  text-align: center;
+  vertical-align: top;
+  width: 66px; }
+
+article {
+  background-color: lavender; }
+
+/*# sourceMappingURL=exo2.css.map */
